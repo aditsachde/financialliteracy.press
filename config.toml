@@ -1,6 +1,6 @@
-baseurl = "https://zpparel.com"
-title = "Zpparel"
-author = "The Zpparel Team"
+baseurl = "https://financialliteracy.press"
+title = "Financial Literacy"
+author = "Adit Sachde & Vincent Zhu"
 canonifyurls = true
 paginate = 3
 
@@ -9,7 +9,7 @@ theme = "hugo-theme-lean-launch-page"
 #googleAnalytics = "UA-123456"
 
 [params]
-tagline = "Make your art into merch, for free."
+tagline = "Resources to learn financial literacy!"
 #mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
 
 #twitter = "https://twitter.com/MyNewProduct"
