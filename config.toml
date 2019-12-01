@@ -1,3 +1,18 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://zpparel.com"
+title = "Zpparel"
+author = "The Zpparel Team"
+canonifyurls = true
+paginate = 3
+
+theme = "hugo-theme-lean-launch-page"
+
+#googleAnalytics = "UA-123456"
+
+[params]
+tagline = "Make your art into merch, for free."
+#mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
+
+#twitter = "https://twitter.com/MyNewProduct"
+#facebook = "https://facebook.com/MyNewProduct"
+#instagram = "https://instagram.com/MyNewProduct"
+#googleplus = "https://plus.google.com/+MyNewProduct"
